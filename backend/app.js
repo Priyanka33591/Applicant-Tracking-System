@@ -17,7 +17,7 @@ app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-const genAI = new GoogleGenerativeAI("AIzaSyAlItNEwd-37MT2WSk-q-XPeDOzjt8I0XI");
+const genAI = new GoogleGenerativeAI("AIzaSyDTDyyxXkS_s_PlyXuoqJdjb5xoCtLvWBg");
 
 async function getGeminiResponse(prompt) {
   const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
