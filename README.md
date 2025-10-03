@@ -1,0 +1,1 @@
+**The Applicant Tracking System (ATS) Full Stack Project is a comprehensive solution designed to streamline and manage the hiring process for organizations. This project combines a robust backend, a dynamic frontend , and a well-structured database to offer a seamless experience for recruiters and applicants alike**.
